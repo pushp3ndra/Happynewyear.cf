@@ -1,0 +1,29 @@
+Favicon: Balloon.png
+Timer: countDownDate
+Glitters Bar: RedGlitter.gif
+Hindi Text: नव वर्ष की हार्दिक शुभकामनायें
+Image 1: Happy-New-Year-2020.png
+Ads Code
+Moving Text: Song को ज़रूर Play करें
+Audio Player: <audio controls autoplay>
+Image 2: Happy-New-Year.gif
+Ads Code
+Message 1: Wave a goodbye to the old and embrace
+Image 2: Happy-New-Year-2020-Photo.png
+Ads Code
+Message 2: I hope your life will be
+Slideshow Code: slideshow-container
+Slideshow Timer: setTimeout
+Moving Text: Dance Ke liye Video Play Kare
+YouTube Code: QNUpIl8gnR0
+Side Image 1: SideBalloon.png
+Side Image 2: SideFlower.png
+Background Color: #fff11c
+Background Image: RedRose.jpg
+
+
+
+
+
+
+
